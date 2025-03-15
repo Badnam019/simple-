@@ -25,7 +25,7 @@ from pyrogram.errors import PeerIdInvalid
 from datetime import datetime
 CLONES = set()
 
-C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Purvi_Music_Robot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @PURVI_SUPPORT\n - Sᴜᴘᴘᴏʀᴛ: @PURVI_UPDATES"
+C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Jio_savan_music_bot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @YASH_ABOUT_XD_lll\n - Sᴜᴘᴘᴏʀᴛ: @YASH_ABOUT_XD_lll"
 
 C_BOT_COMMANDS = [
                 {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},
@@ -102,8 +102,8 @@ async def clone_txt(client, message, _):
                 "name": bot.first_name,
                 "token": bot_token,
                 "username": bot.username,
-                "channel": "PURVI_SUPPORT",
-                "support": "PURVI_UPDATES",
+                "channel": "YASH_ABOUT_XD_lll",
+                "support": "YASH_ABOUT_XD_lll",
                 "premium" : False,
                 "Date" : False,
             }
@@ -225,7 +225,7 @@ async def restart_bots():
             await asyncio.sleep(5)
 
         await app.send_message(
-                CLONE_LOGGER, f"All Cloned Bots Started !"
+                CLONE_LOGGER, f"All Cloned Bots Started 🤠"
             )
     except Exception as e:
         logging.exception("Error while restarting bots.")
