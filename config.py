@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","BADNAM_BABY_lll_YADAV")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "PurviMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jio_savan_music_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Ꭾᴜʀꪜɪ ꭙ ϻᴜsɪᴄ˼")
 # ---------------------------------------------------------
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/The-SigmaCoder/PURVIV2",
+    "https://github.com/Badnam019/simple-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,8 +68,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+gMy8Cp190ediNzZl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/YASH_ABOUT_XD_lll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YASH_ABOUT_XD_lll")
 SOURCE = getenv("SOURCE", "https://t.me/Sonali_music_bot")
 CHAT = getenv("CHAT", "https://t.me/+gMy8Cp190ediNzZl")
 # ------------------------------------------------------------------------------
