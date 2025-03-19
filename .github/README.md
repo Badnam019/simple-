@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Ꭾᴜʀꪜɪ ꭙ ᴍᴜsɪᴄ 」──
+    ──「  𝐊ʀɪᴛɪ ꭙ мᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/nkkroq.jpg">
+  <img src="https://files.catbox.moe/476y7s.jpg">
 </p>
 
 <p align="center">
