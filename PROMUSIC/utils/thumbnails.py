@@ -87,7 +87,7 @@ async def get_thumb(videoid):
         draw.text((565, 230), title1[1], fill=(255, 255, 255), font=title_font)
         draw.text((565, 320), f"{channel}  |  {views[:23]}", (255, 255, 255), font=arial)
         text_size = draw.textsize("TEAM SUDHEER BOTS   ", font=font)
-        draw.text((1280 - text_size[0] - 10, 10), "TEAM SUDHEER BOTS   ", fill="white", font=font)
+        draw.text((1280 - text_size[0] - 10, 10), "TEAM SUDHEER BOTS   ", fill="yellow", font=font)
         line_length = 580
         red_length = int(line_length * 0.6)
         draw.line([(565, 380), (565 + red_length, 380)], fill="red", width=9)
